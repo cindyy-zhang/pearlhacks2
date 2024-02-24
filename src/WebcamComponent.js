@@ -28,8 +28,8 @@ function WebcamComponent() {
               autoPlay
               playsInline
               style={{
-                width: '40%',
-                height: '30%', 
+                width: '100%',
+                height: '100%', 
                 transform: 'scaleX(-1)'
               }}
             />
